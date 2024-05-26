@@ -1,0 +1,108 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/labaics-p2-150microgram---primary.py
+inputModule3:
+  class: File
+  path: python/labaics-p2-10microgram---primary.py
+inputModule4:
+  class: File
+  path: python/labaics-p2-terbutaline---primary.py
+inputModule5:
+  class: File
+  path: python/labaics-p2-nebule---primary.py
+inputModule6:
+  class: File
+  path: python/labaics-p2-500microgram---primary.py
+inputModule7:
+  class: File
+  path: python/labaics-p2-filair---primary.py
+inputModule8:
+  class: File
+  path: python/labaics-p2-95microgram---primary.py
+inputModule9:
+  class: File
+  path: python/labaics-p2-turbohaler---primary.py
+inputModule10:
+  class: File
+  path: python/labaics-p2-beclazone---primary.py
+inputModule11:
+  class: File
+  path: python/labaics-p2-liquid---primary.py
+inputModule12:
+  class: File
+  path: python/labaics-p2-aerobec---primary.py
+inputModule13:
+  class: File
+  path: python/labaics-p2-pulmicort---primary.py
+inputModule14:
+  class: File
+  path: python/maxivent-labaics-p2---primary.py
+inputModule15:
+  class: File
+  path: python/labaics-p2-becotide---primary.py
+inputModule16:
+  class: File
+  path: python/labaics-p2-autohaler---primary.py
+inputModule17:
+  class: File
+  path: python/labaics-p2-symbicort---primary.py
+inputModule18:
+  class: File
+  path: python/labaics-p2-alvesco---primary.py
+inputModule19:
+  class: File
+  path: python/labaics-p2-seretide---primary.py
+inputModule20:
+  class: File
+  path: python/labaics-p2-respule---primary.py
+inputModule21:
+  class: File
+  path: python/labaics-p2-solution---primary.py
+inputModule22:
+  class: File
+  path: python/labaics-p2-100microgram---primary.py
+inputModule23:
+  class: File
+  path: python/labaics-p2-inhaler---primary.py
+inputModule24:
+  class: File
+  path: python/labaics-p2-sterineb---primary.py
+inputModule25:
+  class: File
+  path: python/labaics-p2-forte---primary.py
+inputModule26:
+  class: File
+  path: python/labaics-p2-cyclocap---primary.py
+inputModule27:
+  class: File
+  path: python/labaics-p2-125microgram---primary.py
+inputModule28:
+  class: File
+  path: python/labaics-p2-steripoule---primary.py
+inputModule29:
+  class: File
+  path: python/labaics-p2-clickhaler---primary.py
+inputModule30:
+  class: File
+  path: python/labaics-p2-pulmadil---primary.py
+inputModule31:
+  class: File
+  path: python/labaics-p2-breath---primary.py
+inputModule32:
+  class: File
+  path: python/labaics-p2-hydrobromide---primary.py
+inputModule33:
+  class: File
+  path: python/labaics-p2-ciclesonide---primary.py
+inputModule34:
+  class: File
+  path: python/labaics-p2-inhalation---primary.py
+inputModule35:
+  class: File
+  path: python/labaics-p2-bricanyl---primary.py
+inputModule36:
+  class: File
+  path: python/output-cases.py
